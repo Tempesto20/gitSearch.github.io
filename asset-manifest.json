@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gitSearch.github.io/static/css/main.e8747923.css",
+    "main.js": "/gitSearch.github.io/static/js/main.e4c04c66.js",
+    "static/media/pain.jpg": "/gitSearch.github.io/static/media/pain.31691789d275bd7759f3.jpg",
+    "static/media/git.png": "/gitSearch.github.io/static/media/git.851cd45e9030d409dad1.png",
+    "index.html": "/gitSearch.github.io/index.html",
+    "main.e8747923.css.map": "/gitSearch.github.io/static/css/main.e8747923.css.map",
+    "main.e4c04c66.js.map": "/gitSearch.github.io/static/js/main.e4c04c66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8747923.css",
+    "static/js/main.e4c04c66.js"
+  ]
+}
